@@ -13,7 +13,7 @@ ZADARMA_API_KEY = '6c86fb373480ef5dc33e'
 ZADARMA_API_SECRET = '66105564331d605a7dfc'
 
 # Telegram bot token
-TELEGRAM_TOKEN = '8448855385:AAHyCGEAnX3xX-zehN336u85EhuVJpFOG70'
+TELEGRAM_TOKEN = '8415834033:AAGX02p-CICYPZU0yqtp9FXZbUx8WtWnIfs'
 
 # Predefined numbers for entry and exit
 ENTRY_NUMBER = '101'
@@ -136,4 +136,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
